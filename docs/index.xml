@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Blog</title>
+    <link>http://localhost/</link>
+    <description>Recent content on My Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost/posts/hello-world/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost/posts/hello-world/</guid>
+      <description>&lt;p&gt;If you can read this post, the Mana theme is working correctly.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost/about/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;I am Lord Sudo.&lt;/strong&gt;&lt;br&gt;&#xA;Red teamer. CTF tactician. Student of systems—and their failure points.&lt;br&gt;&#xA;Proud operative of &lt;strong&gt;p3rf3ctr00t&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;This space is not a blog. It is a ledger.&lt;br&gt;&#xA;A chronicle of engagements, extractions, exploits—both technical and psychological.&lt;/p&gt;&#xA;&lt;p&gt;I navigate the unseen layers of digital infrastructure, where security is an illusion and silence is a weapon. Whether it&amp;rsquo;s code, configuration, or the human element—if it can be broken, it can be understood. And if it can be understood, it can be controlled.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
