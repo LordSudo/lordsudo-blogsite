@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OSINT on Lord Sudo</title>
+    <link>https://lordsudo.github.io/tags/osint/</link>
+    <description>Recent content in OSINT on Lord Sudo</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 31 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://lordsudo.github.io/tags/osint/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Marked by Dust - ADHoc Intel Walkthrough</title>
+      <link>https://lordsudo.github.io/posts/markedbydust/</link>
+      <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://lordsudo.github.io/posts/markedbydust/</guid>
+      <description>&lt;h1 id=&#34;-marked-by-dust&#34;&gt;🕯️ Marked by Dust&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; OSINT&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;“Time has buried many secrets, but even in the dust, a precise place remains.”&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;The Question says:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Every place has its special words; find the ones that belong to this artifact&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;prologue--the-forgotten-door&#34;&gt;Prologue — The Forgotten Door&lt;/h1&gt;&#xA;&lt;p&gt;It began with silence.&lt;br&gt;&#xA;No coordinates, no hints — only an image.&lt;br&gt;&#xA;A sun-scorched door of ancient wood, framed in cracked earth, its texture heavy with history. It stared back at the solver like a memory half-recalled, daring them to look closer.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>3=crowd? - Bitwall CTF OSINT Walkthrough</title>
+      <link>https://lordsudo.github.io/posts/3crowdwalkthrough/</link>
+      <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://lordsudo.github.io/posts/3crowdwalkthrough/</guid>
+      <description>&lt;h1 id=&#34;-3crowd&#34;&gt;🕳️ 3=crowd?&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;A journey into nothingness.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;-prologue&#34;&gt;🕯️ Prologue&lt;/h2&gt;&#xA;&lt;p&gt;The screen flickered. No IP addresses to scan. No EXIF tags to scrub. No usernames to pivot from. Only a prompt:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;“All through time, we have strived to achieve precision in all our workings.&lt;br&gt;&#xA;Come our beloved cyberspace, and nothing became one of the most important fundamentals of the entire industry.&lt;br&gt;&#xA;Trace back its true origin and describe in &lt;strong&gt;three words&lt;/strong&gt; that which is known to all yet unknown to all.”&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CyberDefenders on Lord Sudo</title>
+    <link>https://lordsudo.github.io/tags/cyberdefenders/</link>
+    <description>Recent content in CyberDefenders on Lord Sudo</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://lordsudo.github.io/tags/cyberdefenders/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CyberDefenders: 3CX Supply Chain Attack</title>
+      <link>https://lordsudo.github.io/posts/3cxlab/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://lordsudo.github.io/posts/3cxlab/</guid>
+      <description>&lt;h2 id=&#34;prologue-the-quiet-before-the-storm&#34;&gt;&lt;strong&gt;Prologue: The Quiet Before the Storm&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;In the quietest moments of routine operations, danger often stirs. A trusted software update, something so mundane, becomes the entry point for a dark and malicious force. The &lt;strong&gt;3CX Supply Chain Attack&lt;/strong&gt;—an incident where trust was manipulated, and a seemingly harmless software update became a weapon of digital warfare. Prepare yourself, for the tale is one of hidden danger, covert movements, and the eerie calm before a storm. Let’s walk through this, step by step, through the veil of deceit and into the truth that lies beneath.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
