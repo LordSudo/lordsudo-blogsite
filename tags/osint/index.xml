@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OSINT on Lord Sudo</title><link>https://lordsudo.github.io/tags/osint/</link><description>Recent content in OSINT on Lord Sudo</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 31 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://lordsudo.github.io/tags/osint/index.xml" rel="self" type="application/rss+xml"/><item><title>Marked by Dust - ADHoc Intel Walkthrough</title><link>https://lordsudo.github.io/posts/markedbydust/</link><pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate><guid>https://lordsudo.github.io/posts/markedbydust/</guid><description>&lt;h1 id="-marked-by-dust">🕯️ Marked by Dust&lt;/h1>
+&lt;p>&lt;strong>Category:&lt;/strong> OSINT&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;em>“Time has buried many secrets, but even in the dust, a precise place remains.”&lt;/em>&lt;/p>
+&lt;/blockquote>
+&lt;p>The Question says:&lt;/p>
+&lt;blockquote>
+&lt;p>Every place has its special words; find the ones that belong to this artifact&lt;/p>
+&lt;/blockquote>
+&lt;hr>
+&lt;h1 id="prologue--the-forgotten-door">Prologue — The Forgotten Door&lt;/h1>
+&lt;p>It began with silence.&lt;br>
+No coordinates, no hints — only an image.&lt;br>
+A sun-scorched door of ancient wood, framed in cracked earth, its texture heavy with history. It stared back at the solver like a memory half-recalled, daring them to look closer.&lt;/p></description></item><item><title>3=crowd? - Bitwall CTF OSINT Walkthrough</title><link>https://lordsudo.github.io/posts/3crowdwalkthrough/</link><pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate><guid>https://lordsudo.github.io/posts/3crowdwalkthrough/</guid><description>&lt;h1 id="-3crowd">🕳️ 3=crowd?&lt;/h1>
+&lt;p>&lt;em>A journey into nothingness.&lt;/em>&lt;/p>
+&lt;h2 id="-prologue">🕯️ Prologue&lt;/h2>
+&lt;p>The screen flickered. No IP addresses to scan. No EXIF tags to scrub. No usernames to pivot from. Only a prompt:&lt;/p>
+&lt;blockquote>
+&lt;p>“All through time, we have strived to achieve precision in all our workings.&lt;br>
+Come our beloved cyberspace, and nothing became one of the most important fundamentals of the entire industry.&lt;br>
+Trace back its true origin and describe in &lt;strong>three words&lt;/strong> that which is known to all yet unknown to all.”&lt;/p></description></item></channel></rss>
